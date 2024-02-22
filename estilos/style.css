@@ -18,3 +18,18 @@ main {
 
 }
 
+img.lado {
+    float: right;
+}
+
+h1 {
+    font-size: 0.8cm;
+    color: blueviolet;
+}
+
+h2 {
+    font-size: 0.5cm;
+    color: blueviolet;
+}
+
+
